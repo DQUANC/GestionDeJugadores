@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\bin\Debug\PreExamen-Dquan.exe.config
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\bin\Debug\PreExamen-Dquan.exe
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\bin\Debug\PreExamen-Dquan.pdb
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\obj\Debug\PreExamen-Dquan.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\obj\Debug\PreExamen_Dquan.Form1.resources
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\obj\Debug\PreExamen_Dquan.Properties.Resources.resources
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\obj\Debug\PreExamen-Dquan.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\obj\Debug\PreExamen-Dquan.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\obj\Debug\PreExamen-Dquan.exe
+C:\Users\daniq\Documents\UDEO\Progra\Clases\PreExamen-Dquan\PreExamen-Dquan\PreExamen-Dquan\obj\Debug\PreExamen-Dquan.pdb
